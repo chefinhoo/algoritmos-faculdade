@@ -1,0 +1,44 @@
+Autor: Danilo Ramos
+Variaveis
+
+inteiro: numeros inteiros
+real: numeros fracionarios (2.3, 4.3 etc.)
+caractere: aceitação de qualquer caracter
+logica: verdadeiro ou falso
+
+Operadores relacionais
+
+Os operadores relacionais sempre vão me informa um valor logico(falso ou verdadeiro)
+
+> maoir que
+< menor que
+>= maior ou igual
+<= menor ou igual
+<> diferente de
+
+Operadores logicos
+
+E: só vão dar resultado verdadeiro quando p e q forem verdadeiros sendo assim
+todo o resto da espreção será falso. (quando os dois estão felizes o resultado será verdadeiro)
+
+OU: só vao mostrar o sesultado verdadeiro quando p e q não forem falsos
+(quando um ou o outro for feliz o resultado será verdadeiro).
+
+NÂO: o resultado será o inverso do valor de p  
+
+ORDEM DE PRECEDÊNCIA
+
+Aritméticos 
+1º os parenteses ( )
+2º exponenciação ^
+3º multiplicação e divisão * /
+4º adição e subtração + -
+
+Relacionais
+Todos ( >, <, >=, etc)
+
+Lógicos
+1º o operador E
+2º o operador OU
+3º o operador NÂO
+

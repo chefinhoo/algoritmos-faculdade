@@ -1,0 +1,20 @@
+Autor: Danilo Ramos
+CONDICIONAL SE SIMPLES
+
+se (expressão ou variavel) entao
+	escreval ("Bloca A")
+FimSe
+
+CONDICIONAL SE COMPOSTA
+
+se (expressão ou variavel) entao
+	escreval ("Bloca A")
+senao
+	escreval ("Bloco B")
+FimSe
+
+COMANDOS DE REPETIÇÃO
+
+enquanto EXPRESSÃO faça
+	BLOCO
+fimEnquanto
